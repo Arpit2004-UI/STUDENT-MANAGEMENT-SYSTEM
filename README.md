@@ -1,3 +1,4 @@
+*****************STUDENT MANAGEMENT SYSTEM*******
 A simple desktop application using Python’s Tkinter for the GUI and SQLite for the backend database. This program allows you to add, view, update, delete, and search student records with data validation and a clean user interface.
 
 Features
