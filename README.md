@@ -1,5 +1,3 @@
-*****************STUDENT MANAGEMENT SYSTEM*****************
-
 # 🎓 Student Management System
 
 A simple desktop app to manage student records with a clean GUI.
@@ -26,7 +24,7 @@ A simple desktop app to manage student records with a clean GUI.
 
 ## 🚀 Quick Start
 
-1. **Save the code** as `student_management.py`
+1. **Save the code** as 'index.py`
 
 2. **Run the app**:
    ```bash
